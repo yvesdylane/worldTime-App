@@ -1,4 +1,5 @@
 🌍 World Time App ⏰
+
 Welcome to the World Time app! This Flutter app lets you check the current time in different locations around the globe. Whether you're planning a call across time zones or just curious about what time it is in Tokyo, we've got you covered!
 
 🚀 Project Overview
@@ -24,7 +25,9 @@ world_time.dart: 🌐 Fetches and processes time data from an API.
 Clone the Repository:
 
 bash
-git clone https://github.com/your-repository-url.git
+```console
+git clone https://github.com/yvesdylane/worldTime-App
+```
 Navigate to the Project Directory:
 
 bash
@@ -34,14 +37,18 @@ Install Dependencies:
 Run this command to get the necessary packages:
 
 bash
+```console
 flutter pub get
+```
 Run the Application:
 
 Start the app with:
 
 bash
 Copy code
+```console
 flutter run
+```
 📖 Usage
 Home Screen: 🏠 Displays current time and location. Click to update your location.
 Choose Location: 📍 Select and update the location from a list of cities.
