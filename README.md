@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 A big shoutout to The Net Ninja for the awesome Flutter tutorial!
 
-Youtube link : [text](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=1&ab_channel=NetNinja)
+Youtube link : [Link](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=1&ab_channel=NetNinja)
