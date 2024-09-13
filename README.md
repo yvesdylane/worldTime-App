@@ -61,7 +61,6 @@ Run the Application:
 Start the app with:
 
 bash
-Copy code
 ```console
 flutter run
 ```
