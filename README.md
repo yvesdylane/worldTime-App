@@ -14,6 +14,7 @@ This app provides:
 🌆 Dynamic Time Display: See whether it’s day or night based on the selected location.
 ⌛ Loading Indicator: Visual feedback while the app fetches time data.
 🗂 Code Structure
+
 Here's a quick overview of the code:
 
 main.dart: 🌟 Entry point of the app, setting up navigation routes.
@@ -21,7 +22,9 @@ home.dart: 🕰 Displays current time and location with an option to update.
 choice_location.dart: 🌍 List of locations for users to choose from.
 loading.dart: ⏳ Shows a loading spinner while fetching time data.
 world_time.dart: 🌐 Fetches and processes time data from an API.
+
 🛠 Setup and Installation
+
 Clone the Repository:
 
 bash
@@ -50,14 +53,19 @@ Copy code
 flutter run
 ```
 📖 Usage
+
 Home Screen: 🏠 Displays current time and location. Click to update your location.
 Choose Location: 📍 Select and update the location from a list of cities.
 Loading Screen: 🔄 Spinner shows while fetching time data.
+
 🤝 Contributing
+
 Got suggestions or improvements? Feel free to create a pull request or open an issue!
 
 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🎉 Acknowledgments
+
 A big shoutout to The Net Ninja for the awesome Flutter tutorial!
