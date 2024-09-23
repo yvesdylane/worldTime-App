@@ -74,9 +74,6 @@ Loading Screen: 🔄 Spinner shows while fetching time data.
 
 Got suggestions or improvements? Feel free to create a pull request or open an issue!
 
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🎉 Acknowledgments
 
